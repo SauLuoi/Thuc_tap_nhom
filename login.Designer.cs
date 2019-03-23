@@ -128,9 +128,9 @@
             this.label1.Size = new System.Drawing.Size(165, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tên đăng nhập:";
-            // 
+             
             // login
-            // 
+            
             this.AcceptButton = this.btnLogin;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
