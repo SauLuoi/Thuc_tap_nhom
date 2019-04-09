@@ -34,9 +34,5 @@ namespace WindowsFormsApp1
             f.ShowDialog();
         }
 
-        private void accountToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
